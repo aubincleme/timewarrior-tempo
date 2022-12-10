@@ -1,0 +1,9 @@
+[timew]
+export_interval=2w
+project=work
+loggedTag=timew2jira:logged
+
+[jira]
+base_url=https://jira.example.com
+username=
+password=
